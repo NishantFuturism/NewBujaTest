@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "functions": {
+    "/about-us": {},
+    "/brands/[brandName]": {},
+    "/allbrands": {},
+    "/cancel-refund-and-exchange": {},
+    "/careers": {},
+    "/category-menu-list": {},
+    "/category/[subcategory]/[categoryName]": {},
+    "/dealoftheday": {},
+    "/delivery-policy": {},
+    "/faq": {},
+    "/how-it-works": {},
+    "/featured": {},
+    "/disclaimer": {},
+    "/": {},
+    "/investors": {},
+    "/newarrival": {},
+    "/privacy-policy": {},
+    "/payment-policy": {},
+    "/product/[productName]": {},
+    "/terms-and-conditions": {},
+    "/sitemap": {},
+    "/topsellers": {},
+    "/toptrending": {},
+    "/why-adibuja": {}
+  }
+}

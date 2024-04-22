@@ -1,0 +1,59 @@
+#divCategoryMenuList .main-menu-categories {
+    float: left;
+   }
+
+    #divCategoryMenuList .main-menu-categories ul li.static {
+        position: static;
+    }
+
+    #divCategoryMenuList .main-menu-categories li > a {
+        color: #111;
+        display: block;
+        font-size: 15px;
+        font-weight: 500;
+        padding: 18px 32px;
+        text-transform: uppercase;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu.mega-full {
+        margin: 0 auto;
+        padding: 20px;
+        width: 100%;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu li {
+        width: 25%;
+        float: left;
+        margin: 0;
+        word-break: break-all;
+    }
+
+    #divCategoryMenuList .main-menu-categories li {
+        position: relative;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu li a {
+        padding: 20px 0 20px;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu li ul li {
+        width: 100%;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu li {
+        float: left;
+        margin: 0;
+    }
+
+    #divCategoryMenuList .main-menu-categories ul li ul.mega-menu li ul li a {
+        color: #444;
+        font-size: 14px;
+        font-weight: 400;
+        padding: 5px 0;
+        text-transform: capitalize;
+        word-break: break-word;
+    }
+
+#link a { color: #444; font-size: 14px; font-weight: 400; padding: 5px 0; text-transform: capitalize; line-height: 1.875; font-size: 1.150em; }
+    #link a:hover { color: #ff7060; }
+#divCategoryMenuList .main-menu-categories li > a { text-transform: capitalize; }
